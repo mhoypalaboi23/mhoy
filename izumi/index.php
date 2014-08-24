@@ -34,20 +34,20 @@
 	<!-- Pushy Menu -->
 	<nav class="pushy pushy-left">
 		<ul>
-			<li><a href="index.php">HOME</a></li>
+			<li><a href="index.php" key="home" class="tr">HOME</a></li>
 			<li class="divider"></li>	
-			<li><a href="about-us.php">ABOUT US</a></li>
+			<li><a href="about-us.php" key="about" class="tr">ABOUT US</a></li>
 			<li class="divider"></li>	
-			<li><a href="water-essential.php">WATER ESSENTIALS</a></li>
+			<li><a href="water-essential.php" key="water" class="tr">WATER ESSENTIALS</a></li>
 			<li class="divider"></li>		
-			<li><a href="kitchen-essential.php">KITCHEN ESSENTIALS</a></li>
+			<li><a href="kitchen-essential.php" key="kitchen" class="tr">KITCHEN ESSENTIALS</a></li>
 			<li class="divider"></li>	
-			<li><a href="air-essential.php">AIR ESSENTIALS</a></li>
+			<li><a href="air-essential.php" key="air" class="tr">AIR ESSENTIALS</a></li>
 			<li class="divider"></li>	
-			<li><a href="home-essential.php">HOME ESSENTIALS</a></li>
+			<li><a href="home-essential.php" key="home-essential" class="tr">HOME ESSENTIALS</a></li>
 			<li class="divider"></li>	
-			<li><a href="health-essential.php">HEALTH ESSENTIALS</a></li>
-			<li><a href="contact-us.php">CONTACT US</a></li>
+			<li><a href="health-essential.php" key="health" class="tr">HEALTH ESSENTIALS</a></li>
+			<li><a href="contact-us.php" key="contact" class="tr">CONTACT US</a></li>
 		</ul>
 	</nav>
 
@@ -72,9 +72,9 @@
 				<div class="col-md-6">
 					<div id="dropdown_cont">
 						<select id="dropdown" name="dropdown" class="form-control pull-left">
-							<option>Select your language</option>
-							<option><a href="#" onclick="window.lang.change('en'); return false;">English</a></option>
-							<option><a  href="#" onclick="window.lang.change('th'); return false;">Japanese</a></option>
+							<option key="select-lang" class="tr">Select your language</option>
+							<option id="en" class="lang">English</option>
+							<option id="ja" class="lang tr" key="japanese">Japanese</option>
 						</select>
 					</div>
 					<div class="info"><i class="fa fa-envelope-o"></i> info@izumijapancorp.com</div>
@@ -96,26 +96,26 @@
 			<div class="col-md-10 nav-wrapper">
 				<!-- Menu Button -->
 				<ul class="nav nav-pills hidden-xs hidden-sm">
-					<li class="active"><a href="index.php">HOME</a></li>
+					<li class="active"><a href="index.php" key="home" class="tr">HOME</a></li>
 					<li class="menu-divider">•</li>
-					<li><a href="about-us.php">ABOUT US</a></li>
+					<li><a href="about-us.php" key="about" class="tr">ABOUT US</a></li>
 					<li class="menu-divider">•</li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">PRODUCTS <span class="caret"></span></a>
+						<a href="#" class="dropdown-toggle tr" data-toggle="dropdown" key="products">PRODUCTS <span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
-							<li><a href="water-essential.php">WATER ESSENTIALS</a></li>
+							<li><a href="water-essential.php" key="water" class="tr">WATER ESSENTIALS</a></li>
 							<li class="divider"></li>		
-							<li><a href="kitchen-essential.php">KITCHEN ESSENTIALS</a></li>
+							<li><a href="kitchen-essential.php" key="kitchen" class="tr">KITCHEN ESSENTIALS</a></li>
 							<li class="divider"></li>	
-							<li><a href="air-essential.php">AIR ESSENTIALS</a></li>
+							<li><a href="air-essential.php" key="air" class="tr">AIR ESSENTIALS</a></li>
 							<li class="divider"></li>	
-							<li><a href="home-essential.php">HOME ESSENTIALS</a></li>
+							<li><a href="home-essential.php" key="home-essential" class="tr">HOME ESSENTIALS</a></li>
 							<li class="divider"></li>	
-							<li><a href="health-essential.php">HEALTH ESSENTIALS</a></li>
+							<li><a href="health-essential.php" key="health" class="tr">HEALTH ESSENTIALS</a></li>
 						</ul>
 					</li>
 					<li class="menu-divider">•</li>
-					<li><a href="contact-us.php">CONTACT US</a></li>
+					<li><a href="contact-us.php" key="contact" class="tr">CONTACT US</a></li>
 				</ul>
 			</div>
 		</div>
@@ -178,22 +178,22 @@
 		</div>
 		<!--/main slider carousel-->
 		<div class="about container">
-			<div class="arrow_box"><h1>About Us</h1></div>
-			<p>Izumi is now known to us as the access to the fountain of life; but even before all that, we should tell you about the Izumi Inspiration – the Izumi Man. A British journalist for the Guinness Book of Records was on an assignment to interview Shigechiyo Izumi, the world’s oldest documented living person, a 115-year-old man in remarkably good health. The journalist was amazed by Izumi’s vitality and the fact that he had worked until the age of 105.</p>
-			<a href="#">Read More</a>
+			<div class="arrow_box"><h1 key="about" class="tr">About Us</h1></div>
+			<p key="izumi-intro" class="tr">Izumi is now known to us as the access to the fountain of life; but even before all that, we should tell you about the Izumi Inspiration – the Izumi Man. A British journalist for the Guinness Book of Records was on an assignment to interview Shigechiyo Izumi, the world’s oldest documented living person, a 115-year-old man in remarkably good health. The journalist was amazed by Izumi’s vitality and the fact that he had worked until the age of 105.</p>
+			<a href="about-us.php" key="read-more" class="tr">Read More</a>
 		</div>
 		<div class="ikw ">
 			<div class="container">
-				<h1>What is IZUMI KANGEN WATER ® ?</h1>
+				<h1 key="izumi-mean" class="tr">What is IZUMI KANGEN WATER ® ?</h1>
 				<p><span>.......................................................................................................................</span></p>
-				<p>Izumi Kangen Water is delicious water created from enagics innovative water technology. Not only do these devices filter your tap water, but they also produce ionized alkaline and acidic water through electrolysis. These waters can be used for various purposes, including drinking, cooking, beauty, and cleaning</p>
-				<h2>Devices form Izumi produce 5 differeent types of water These water types have many health benefits</h2>
+				<p key="izumi-defi" class="tr">Izumi Kangen Water is delicious water created from enagics innovative water technology. Not only do these devices filter your tap water, but they also produce ionized alkaline and acidic water through electrolysis. These waters can be used for various purposes, including drinking, cooking, beauty, and cleaning</p>
+				<h2 key="device" class="tr">Devices form Izumi produce 5 different types of water These water types have many health benefits</h2>
 				<div class="row">
 					<div class="col-sm-4 col-md-2">
 						<div class="thumbnail">
 							<img src="assets/img/water-1.png" alt="">
 							<div class="caption">
-								<h3>Strong kangen® water</h3>
+								<h3 key="s-kangen" class="tr">Strong kangen® water</h3>
 								<p>PH 10.0</p>
 							</div>
 						</div>
@@ -202,7 +202,7 @@
 						<div class="thumbnail">
 							<img src="assets/img/water-2.png" alt="">
 							<div class="caption">
-								<h3>IZUMI kangen water®</h3>
+								<h3 key="i-kangen" class="tr">IZUMI kangen water®</h3>
 								<p>ph 8.5 - 9.5</p>
 							</div>
 						</div>
@@ -211,7 +211,7 @@
 						<div class="thumbnail">
 							<img src="assets/img/water-3.png" alt="">
 							<div class="caption">
-								<h3>natural water</h3>
+								<h3 key="n-water" class="tr">Natural Water</h3>
 								<p>ph 7.0</p>
 							</div>
 						</div>
@@ -220,7 +220,7 @@
 						<div class="thumbnail">
 							<img src="assets/img/water-4.png" alt="">
 							<div class="caption">
-								<h3>Beauty water</h3>
+								<h3 key="b-water" class="tr">Beauty Water</h3>
 								<p>PH 4.0 - 6.0</p>
 							</div>
 						</div>
@@ -229,7 +229,7 @@
 						<div class="thumbnail">
 							<img src="assets/img/water-5.png" alt="">
 							<div class="caption">
-								<h3>strong acidic water</h3>
+								<h3 key="s-acidic" class="tr">Strong Acidic Water</h3>
 								<p>ph s.5</p>
 							</div>
 						</div>
@@ -239,7 +239,7 @@
 		</div>
 		<div class="container">
 			<div class="products">
-				<div class="arrow_box"><h1>Featured Products</h1></div>
+				<div class="arrow_box"><h1 key="featured" class="tr">Featured Products</h1></div>
 			</div>
 			<div class='row'>
 				<div class='col-md-12'>
@@ -251,9 +251,9 @@
 										<div class="thumbnail">
 											<div class="thumb-img"><img src="assets/img/products/products-8.jpg" alt=""></div>
 											<div class="caption">
-												<h3>Anti-Chlorine Vita-C Shower Filter</h3>
-												<p>Right after a rigorous physical activity, nothing can be more comforting than a hot shower. Besides, who doesn’t like hot showers especially in the cold mornings? The thing about hot showers though is that the hot water causes our pores to open up, making chlorine very easy to seep through our skin. Chlorine is the cheapest way for water distribution companies to disinfect water. The risk though is that large amounts of chlorine over time can be detrimental to health.</p>
-												<a href="anti-chlorine vita-c-shower-filter.php" class="btn btn-primary">More Info</a>
+												<h3 key="anti-chlorine" class="tr">Anti-Chlorine Vita-C Shower Filter</h3>
+												<p key="anti-chlorine-detail" class="tr">Right after a rigorous physical activity, nothing can be more comforting than a hot shower. Besides, who doesn’t like hot showers especially in the cold mornings? The thing about hot showers though is that the hot water causes our pores to open up, making chlorine very easy to seep through our skin. Chlorine is the cheapest way for water distribution companies to disinfect water. The risk though is that large amounts of chlorine over time can be detrimental to health.</p>
+												<a href="anti-chlorine vita-c-shower-filter.php" key="more" class="tr btn btn-primary">More Info</a>
 											</div>
 										</div>
 									</div>  
@@ -261,9 +261,9 @@
 										<div class="thumbnail">
 											<div class="thumb-img"><img src="assets/img/products/products-2.jpg" alt=""></div>
 											<div class="caption">
-												<h3>Antioxidant Alkaline Water Ionizer (Digital)</h3>
-												<p>Enjoy Healthy and Organic Food without the hassle of buying from all-organic farms or searching for expensive organic food in the supermarket.</p>
-												<a href="izumi-pro-organic-food-sterilizer.php" class="btn btn-primary">More Info</a>
+												<h3 key="antioxidant" class="tr">Antioxidant Alkaline Water Ionizer (Digital)</h3>
+												<p key="antioxidant-detail" class="tr">Enjoy Healthy and Organic Food without the hassle of buying from all-organic farms or searching for expensive organic food in the supermarket.</p>
+												<a href="izumi-pro-organic-food-sterilizer.php" key="more" class="tr btn btn-primary">More Info</a>
 											</div>
 										</div>
 									</div>    
@@ -271,9 +271,9 @@
 										<div class="thumbnail">
 											<div class="thumb-img"><img src="assets/img/products/products-13.jpg" alt=""></div>
 											<div class="caption">
-												<h3>Nutritional Cooking System</h3>
-												<p>The Izumi Nutritional Cooking System is proud to bring you the world’s finest cookware that meets your demands for healthy cooking that’s easy and energy-efficient.</p>
-												<a href="izumi-nutritional-cooking-sysytem.php" class="btn btn-primary">More Info</a>
+												<h3 key="nutritional" class="tr">Nutritional Cooking System</h3>
+												<p key="nutritional-detail" class="tr">The Izumi Nutritional Cooking System is proud to bring you the world’s finest cookware that meets your demands for healthy cooking that’s easy and energy-efficient.</p>
+												<a href="izumi-nutritional-cooking-sysytem.php" key="more" class="tr btn btn-primary">More Info</a>
 											</div>
 										</div>
 									</div>  
@@ -281,9 +281,9 @@
 										<div class="thumbnail">
 											<div class="thumb-img"><img src="assets/img/products/products-4.jpg" alt=""></div>
 											<div class="caption">
-												<h3>PRO-AQUA AIR AND ROOM CLEANING SYSTEM</h3>
-												<p>Clean air is healthy air! The innovative and aesthetically designed cleaning system uses only water as a filter, requiring only three liters of water can already clean the entire house. If you have allergies or asthma, The Pro-Aqua cleaning system is safe and can even help to alleviate some symptoms by improving air quality and room climate. It cleans the air and does dry and wet cleaning, air washing and scenting, inhalation, bed and mattress cleaning, carpet and upholstery cleaning, and vacuuming. </p>
-												<a href="pro-aqua-air-and-room-cleaning-system.php" class="btn btn-primary">More Info</a>
+												<h3 key="pro-aqua" class="tr">PRO-AQUA AIR AND ROOM CLEANING SYSTEM</h3>
+												<p key="pro-aqua-detail" class="tr">Clean air is healthy air! The innovative and aesthetically designed cleaning system uses only water as a filter, requiring only three liters of water can already clean the entire house. If you have allergies or asthma, The Pro-Aqua cleaning system is safe and can even help to alleviate some symptoms by improving air quality and room climate. It cleans the air and does dry and wet cleaning, air washing and scenting, inhalation, bed and mattress cleaning, carpet and upholstery cleaning, and vacuuming. </p>
+												<a href="pro-aqua-air-and-room-cleaning-system.php" key="more" class="tr btn btn-primary">More Info</a>
 											</div>
 										</div>
 									</div>     
@@ -294,9 +294,9 @@
 									<div class="thumbnail">
 										<div class="thumb-img"><img src="assets/img/products/products-14.jpg" alt=""></div>
 										<div class="caption">
-											<h3>IZUMI ENERGY BRACELETS</h3>
-											<p>Your Izumi Energy Bracelet leads the field in high-technological jewelry, with five types of constant-release energies that benefit the wearer.</p>
-											<a href="izumi-energy-bracelets.php" class="btn btn-primary">More Info</a>
+											<h3 key="izumi-energy" class="tr">IZUMI ENERGY BRACELETS</h3>
+											<p key="izumi-energy-detail" class="tr">Your Izumi Energy Bracelet leads the field in high-technological jewelry, with five types of constant-release energies that benefit the wearer.</p>
+											<a href="izumi-energy-bracelets.php" key="more" class="tr btn btn-primary">More Info</a>
 										</div>
 									</div>
 								</div>  
@@ -304,9 +304,9 @@
 									<div class="thumbnail">
 										<div class="thumb-img"><img src="assets/img/products/products-15.jpg" alt=""></div>
 										<div class="caption">
-											<h3>IZUMI Bottleless Hot &amp; Cold Ultrafiltration Water Dispenser</h3>
-											<p>This free-standing dispenser has two water options – hot and cold – ideal to wake up your senses with coffee or quench your thirst with a cool glass of water. It can heat or cool up to 30 gallons per hour and can bring convenience to your home or office.</p>
-											<a href="izumi-bottlesless-hot&cold-ultrafiltration-water-dispenser.php" class="btn btn-primary">More Info</a>
+											<h3 key="dispenser" class="tr">IZUMI Bottleless Hot &amp; Cold Ultrafiltration Water Dispenser</h3>
+											<p key="dispenser-detail">This free-standing dispenser has two water options – hot and cold – ideal to wake up your senses with coffee or quench your thirst with a cool glass of water. It can heat or cool up to 30 gallons per hour and can bring convenience to your home or office.</p>
+											<a href="izumi-bottlesless-hot&cold-ultrafiltration-water-dispenser.php" key="more" class="tr btn btn-primary">More Info</a>
 										</div>
 									</div>
 								</div>    
@@ -314,9 +314,9 @@
 									<div class="thumbnail">
 										<div class="thumb-img"><img src="assets/img/products/products-16.jpg" alt=""></div>
 										<div class="caption">
-											<h3>VAKUFIT HYDROCLEANING MACHINE</h3>
-											<p>Vakufit Air and Room Cleaning System is such a great help for allergy sufferers, especially small children. Many allergens, including excrement of dust mites, pollen, fungus spores, and numerous micro-organisms are  hidden in dust. With Vakufit, now you can vacuum with peace of mind. These particulates stay in water are disposed off forever!</p>
-											<a href="vakufit-hydrocleaning-machine.php" class="btn btn-primary">More Info</a>
+											<h3 key="vakufit" class="tr">VAKUFIT HYDROCLEANING MACHINE</h3>
+											<p key="vaku-detail" class="tr">Vakufit Air and Room Cleaning System is such a great help for allergy sufferers, especially small children. Many allergens, including excrement of dust mites, pollen, fungus spores, and numerous micro-organisms are  hidden in dust. With Vakufit, now you can vacuum with peace of mind. These particulates stay in water are disposed off forever!</p>
+											<a href="vakufit-hydrocleaning-machine.php" key="more" class="tr btn btn-primary">More Info</a>
 										</div>
 									</div>
 								</div>  
@@ -324,9 +324,9 @@
 									<div class="thumbnail">
 										<div class="thumb-img"><img src="assets/img/products/products-17.jpg" alt=""></div>
 										<div class="caption">
-											<h3>alkaStream AOK NON-ELECTRIC ALKALINE IONIZER</h3>
-											<p>The alkaStream AOK Non-Electric Alkaline Water Ionizer is comprised of 8 filter layers that deliver the cleanest possible water out of your tap. Unlike many water filters on the market, alkaStream AOK keeps all of the healthy minerals in, so your body receives all the proper nourishment that our body needs.</p>
-											<a href="alkastream-aok-none-electric-alkaline-ionizer.php" class="btn btn-primary">More Info</a>
+											<h3 key="alkastream" class="tr">alkaStream AOK NON-ELECTRIC ALKALINE IONIZER</h3>
+											<p key="alka-detail" class="tr">The alkaStream AOK Non-Electric Alkaline Water Ionizer is comprised of 8 filter layers that deliver the cleanest possible water out of your tap. Unlike many water filters on the market, alkaStream AOK keeps all of the healthy minerals in, so your body receives all the proper nourishment that our body needs.</p>
+											<a href="alkastream-aok-none-electric-alkaline-ionizer.php" key="more" class="tr btn btn-primary">More Info</a>
 										</div>
 									</div>
 								</div>     
@@ -344,28 +344,28 @@
 			<img src="assets/img/certificates.png" alt="">
 		</div>
 		<div class="certificate-btn">
-			<a href="contact-us.php"><img src="assets/img/char-1.png" alt="">INVEST IN YOUR HEALTH <i class="fa fa-arrow-circle-right"></i></a>
-			<a href="contact-us.php"><img src="assets/img/char-2.png" alt="">INVEST IN YOUR HEALTH <i class="fa fa-arrow-circle-right"></i></a>
+			<a href="contact-us.php"><img src="assets/img/char-1.png" alt=""><span key="invest" class="tr">INVEST IN YOUR HEALTH</span> <i class="fa fa-arrow-circle-right"></i></a>
+			<a href="contact-us.php"><img src="assets/img/char-2.png" alt=""><span key="invest" class="tr">INVEST IN YOUR HEALTH</span> <i class="fa fa-arrow-circle-right"></i></a>
 		</div>
 	</div>
 	<footer>
 		<div class="footer container">
 			<ul>
-				<li><a href="index.php">HOME</a></li>
+				<li><a href="index.php" key="home" class="tr">HOME</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="about-us.php">ABOUT US</a></li>
+				<li><a href="about-us.php" key="about" class="tr">ABOUT US</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="water-essential.php">WATER ESSENTIAL</a></li>
+				<li><a href="water-essential.php" key="water" class="tr">WATER ESSENTIAL</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="kitchen-essential.php">KITCHEN ESSENTIAL</a></li>
+				<li><a href="kitchen-essential.php" key="kitchen" class="tr">KITCHEN ESSENTIAL</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="air-essential.php">AIR ESSENTIAL</a></li>
+				<li><a href="air-essential.php" key="air" class="tr">AIR ESSENTIAL</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="home-essential.php">HOME ESSENTIAL</a></li>
+				<li><a href="home-essential.php" key="home-essential" class="tr">HOME ESSENTIAL</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="home-essential.php">HEALTH ESSENTIAL</a></li>
+				<li><a href="home-essential.php" key="health" class="tr">HEALTH ESSENTIAL</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="contact-us.php">CONTACT US</a></li>
+				<li><a href="contact-us.php" key="contact" class="tr">CONTACT US</a></li>
 			</ul>
 		</div>
 		<hr>

@@ -30,20 +30,20 @@
 	<!-- Pushy Menu -->
 	<nav class="pushy pushy-left">
 		<ul>
-			<li><a href="index.php">HOME</a></li>
+			<li><a href="index.php" key="home" class="tr">HOME</a></li>
 			<li class="divider"></li>	
-			<li><a href="about-us.php">ABOUT US</a></li>
+			<li><a href="about-us.php" key="about" class="tr">ABOUT US</a></li>
 			<li class="divider"></li>	
-			<li><a href="water-essential.php">WATER ESSENTIALS</a></li>
+			<li><a href="water-essential.php" key="water" class="tr">WATER ESSENTIALS</a></li>
 			<li class="divider"></li>		
-			<li><a href="kitchen-essential.php">KITCHEN ESSENTIALS</a></li>
+			<li><a href="kitchen-essential.php" key="kitchen" class="tr">KITCHEN ESSENTIALS</a></li>
 			<li class="divider"></li>	
-			<li><a href="air-essential.php">AIR ESSENTIALS</a></li>
+			<li><a href="air-essential.php" key="air" class="tr">AIR ESSENTIALS</a></li>
 			<li class="divider"></li>	
-			<li><a href="home-essential.php">HOME ESSENTIALS</a></li>
+			<li><a href="home-essential.php" key="home-essential" class="tr">HOME ESSENTIALS</a></li>
 			<li class="divider"></li>	
-			<li><a href="health-essential.php">HEALTH ESSENTIALS</a></li>
-			<li><a href="contact-us.php">CONTACT US</a></li>
+			<li><a href="health-essential.php" key="health" class="tr">HEALTH ESSENTIALS</a></li>
+			<li><a href="contact-us.php" key="contact" class="tr">CONTACT US</a></li>
 		</ul>
 	</nav>
 
@@ -68,9 +68,9 @@
 				<div class="col-md-6">
 					<div id="dropdown_cont">
 						<select id="dropdown" name="dropdown" class="form-control pull-left">
-							<option>Select your language</option>
-							<option>English</option>
-							<option>Japanese</option>
+							<option key="select-lang" class="tr">Select your language</option>
+							<option id="en" class="lang">English</option>
+							<option id="ja" class="lang tr" key="japanese">Japanese</option>
 						</select>
 					</div>
 					<div class="info"><i class="fa fa-envelope-o"></i> info@izumijapancorp.com</div>
@@ -92,26 +92,26 @@
 			<div class="col-md-10 nav-wrapper">
 				<!-- Menu Button -->
 				<ul class="nav nav-pills hidden-xs hidden-sm">
-					<li><a href="index.php">HOME</a></li>
+					<li><a href="index.php" key="home" class="tr">HOME</a></li>
 					<li class="menu-divider">•</li>
-					<li><a href="about-us.php">ABOUT US</a></li>
+					<li><a href="about-us.php" key="about" class="tr">ABOUT US</a></li>
 					<li class="menu-divider">•</li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">PRODUCTS <span class="caret"></span></a>
+						<a href="#" class="dropdown-toggle tr" data-toggle="dropdown" key="products">PRODUCTS <span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
-							<li><a href="water-essential.php">WATER ESSENTIALS</a></li>
+							<li><a href="water-essential.php" key="water" class="tr">WATER ESSENTIALS</a></li>
 							<li class="divider"></li>		
-							<li><a href="kitchen-essential.php">KITCHEN ESSENTIALS</a></li>
+							<li><a href="kitchen-essential.php" key="kitchen" class="tr">KITCHEN ESSENTIALS</a></li>
 							<li class="divider"></li>	
-							<li><a href="air-essential.php">AIR ESSENTIALS</a></li>
+							<li><a href="air-essential.php" key="air" class="tr">AIR ESSENTIALS</a></li>
 							<li class="divider"></li>	
-							<li class="active"><a href="home-essential.php">HOME ESSENTIALS</a></li>
+							<li class="active"><a href="home-essential.php" key="home-essential" class="tr">HOME ESSENTIALS</a></li>
 							<li class="divider"></li>	
-							<li><a href="health-essential.php">HEALTH ESSENTIALS</a></li>
+							<li><a href="health-essential.php" key="health" class="tr">HEALTH ESSENTIALS</a></li>
 						</ul>
 					</li>
 					<li class="menu-divider">•</li>
-					<li><a href="contact-us.php">CONTACT US</a></li>
+					<li><a href="contact-us.php" key="contact" class="tr">CONTACT US</a></li>
 				</ul>
 			</div>
 		</div>
@@ -122,15 +122,15 @@
 		<div class="product container">
 			<ol class="breadcrumb">
 				<li>
-					<a href="#">Home</a>
+					<a href="index.php" key="home" class="tr">Home</a>
 				</li>
 
-				<li><a href="#">Home Essentials</a></li>
-				<li class="active">Anti-Chlorine Vita-C Shower Filter</li>
+				<li><a href="home-essential.php" key="home-essential" class="tr">Home Essentials</a></li>
+				<li class="active tr" key="anti-chlorine">Anti-Chlorine Vita-C Shower Filter</li>
 			</ol>
 			<div class="single-products">
 				<div class="product-title">
-					<h1>Home Essentials</h1>
+					<h1 key="home-essential" class="tr">Home Essentials</h1>
 				</div>
 				<div class="product-display">
 					<div class="col-sm-12 col-md-4">
@@ -155,31 +155,31 @@
 				</div>
 				<div class="col-sm-12 col-md-8">
 					<div class="single-product-detail">
-						<h1>IZUMI ANTI-CHLORINE VITA-C SHOWER</h1>
-						<h2>Description: </h2>
-						<p>Now  you can enjoy your bath more with Izumi Anti-Chlorine Vita-C Shower Filter that gets rid of chlorine in the water. Chlorine in water dries up the skin and with accumulated high amounts can actually cause cancer.</p>
+						<h1 key="anti-chlorine" class="tr">IZUMI ANTI-CHLORINE VITA-C SHOWER</h1>
+						<h2 key="description" class="tr">Description: </h2>
+						<p key="now-chlorine" class="tr">Now you can enjoy your bath more with Izumi Anti-Chlorine Vita-C Shower Filter that gets rid of chlorine in the water. Chlorine in water dries up the skin and with accumulated high amounts can actually cause cancer.</p>
 						<img src="assets/img/poster-3.jpg" alt="" class="pull-right" style="max-width: 300px; margin-left: 14px;">
-						<p>Izumi Anti-Chlorine Vita-C Shower Filter takes out chlorine through its Vita-C gel filter that is equivalent to 3,000 lemons. Its patented triangular holes give off negative ions in the shower. These specialized filters help prevent skin and scalp diseases and conditions such as eczema, psoriasis, skin asthma, falling hair, and dandruff. Healthy skin and hair is a fresh and invigorating shower away!</p>
+						<p key="izumi-filter" class="tr">Izumi Anti-Chlorine Vita-C Shower Filter takes out chlorine through its Vita-C gel filter that is equivalent to 3,000 lemons. Its patented triangular holes give off negative ions in the shower. These specialized filters help prevent skin and scalp diseases and conditions such as eczema, psoriasis, skin asthma, falling hair, and dandruff. Healthy skin and hair is a fresh and invigorating shower away!</p>
 
-						<h1>BENEFITS</h1>
+						<h1 key="benefit" class="tr">BENEFITS</h1>
 
 						<ul>
-							<li>Reduces over 98% Chlorine for tap water before it touches your skin</li>
-							<li>Reduces soap film build-up</li>
-							<li>Removes Cancer-causing agent chlorine from the water</li>
-							<li>Fights against skin problem such as Psoriasis, Skin Cancer, and Skin Asthma</li>
-							<li>Prevents Dandruff build up and Falling Hair</li>
-							<li>Saves 10 to 25% on water from your regular daily bathing</li>
-							<li>No tools required</li>
-							<li>Easy to replace filter cartridge</li>
+							<li key="reduce-chlorine" class="tr">Reduces over 98% Chlorine for tap water before it touches your skin</li>
+							<li key="reduce-soap" class="tr">Reduces soap film build-up</li>
+							<li key="remove-cancer" class="tr">Removes Cancer-causing agent chlorine from the water</li>
+							<li key="fight-problem" class="tr">Fights against skin problem such as Psoriasis, Skin Cancer, and Skin Asthma</li>
+							<li key="falling-hair" class="tr">Prevents Dandruff build up and Falling Hair</li>
+							<li key="save-water" class="tr">Saves 10 to 25% on water from your regular daily bathing</li>
+							<li key="no-tools" class="tr">No tools required</li>
+							<li key="easy-replace" class="tr">Easy to replace filter cartridge</li>
 						</ul>
 
-						<h1>FEATURES</h1>
+						<h1 key="features" class="tr">FEATURES</h1>
 
 						<ul>
-							<li>Micro-Fabric filter helps remove contaminants, rust and floating particles</li>
-							<li>Comes with Aroma-Vita C gel filter that lasts up to 6,000 liters</li>
-							<li>Anti-bacterial ceramic balls help prevents germs in the water</li>
+							<li key="micro-fabric" class="tr">Micro-Fabric filter helps remove contaminants, rust and floating particles</li>
+							<li key="aroma-vita" class="tr">Comes with Aroma-Vita C gel filter that lasts up to 6,000 liters</li>
+							<li key="anti-bacterial" class="tr">Anti-bacterial ceramic balls help prevents germs in the water</li>
 						</ul>
 
 					</div>
@@ -191,21 +191,21 @@
 	<footer>
 		<div class="footer container">
 			<ul>
-				<li><a href="index.php">HOME</a></li>
+				<li><a href="index.php" key="home" class="tr">HOME</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="about-us.php">ABOUT US</a></li>
+				<li><a href="about-us.php" key="about" class="tr">ABOUT US</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="water-essential.php">WATER ESSENTIAL</a></li>
+				<li><a href="water-essential.php" key="water" class="tr">WATER ESSENTIAL</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="kitchen-essential.php">KITCHEN ESSENTIAL</a></li>
+				<li><a href="kitchen-essential.php" key="kitchen" class="tr">KITCHEN ESSENTIAL</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="air-essential.php">AIR ESSENTIAL</a></li>
+				<li><a href="air-essential.php" key="air" class="tr">AIR ESSENTIAL</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="home-essential.php">HOME ESSENTIAL</a></li>
+				<li><a href="home-essential.php" key="home-essential" class="tr">HOME ESSENTIAL</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="home-essential.php">HEALTH ESSENTIAL</a></li>
+				<li><a href="home-essential.php" key="health" class="tr">HEALTH ESSENTIAL</a></li>
 				<li class="menu-divider">•</li>
-				<li><a href="contact-us.php">CONTACT US</a></li>
+				<li><a href="contact-us.php" key="contact" class="tr">CONTACT US</a></li>
 			</ul>
 		</div>
 		<hr>

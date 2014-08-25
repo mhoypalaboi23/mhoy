@@ -8,7 +8,17 @@
  * Correct `block` display not defined in IE 6/7/8/9 and Firefox 3.
  */
 
-
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
 summary {
     display: block;
 }
@@ -17,7 +27,8 @@ summary {
  * Correct `inline-block` display not defined in IE 6/7/8/9 and Firefox 3.
  */
 
-
+audio,
+canvas,
 video {
     display: inline-block;
     *display: inline;
@@ -277,7 +288,12 @@ sub {
  * Address margins set differently in IE 6/7.
  */
 
-
+dl,
+menu,
+ol,
+ul {
+    margin: 1em 0;
+}
 
 dd {
     margin: 0 0 0 40px;
@@ -287,7 +303,11 @@ dd {
  * Address paddings set differently in IE 6/7.
  */
 
-
+menu,
+ol,
+ul {
+    padding: 0 0 0 40px;
+}
 
 /**
  * Correct list images handled incorrectly in IE 7.

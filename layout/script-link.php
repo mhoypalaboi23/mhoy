@@ -11,8 +11,6 @@ echo "
 <script type='text/javascript' src='assets/js/jquery.elastislide.js'></script>
 
 
-<!-- Pushy JS -->
-<script src='assets/js/pushy.min.js'></script>
 <script src='assets/js/jquery-cookie.js'></script>
 
 

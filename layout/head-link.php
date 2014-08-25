@@ -10,18 +10,12 @@ echo "
 <link rel='stylesheet' href='assets/css/bootstrap.css'>
 <link rel='stylesheet' href='assets/css/main.css'>
 <link rel='stylesheet' href='assets/css/font-awesome.min.css'>
-<link rel='stylesheet' href='assets/css/normalize.css'>
 <link rel='stylesheet' href='assets/css/carousel-with-thumb.css'>
 <link rel='stylesheet' href='assets/css/elastislide.css'>
 <link rel='stylesheet' href='assets/css/elastislide.css' />
 <link rel='stylesheet' href='assets/css/custom.css' />
 
-<!-- Pushy CSS -->
-
-<link rel='stylesheet' href='assets/css/pushy.css'>
 <!-- Modernizr -->
-
-<script src='assets/js/vendor/modernizr.custom.71422.js'></script>
 <script src='assets/js/modernizr.custom.17475.js'></script>
 
 ";

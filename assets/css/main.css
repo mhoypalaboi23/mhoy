@@ -211,7 +211,20 @@ select.form-control {
   background: transparent url(../img/dropdown-bg.png) no-repeat right center;
   width:200px;
 }
-.main-nav .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+.main-nav .navbar-default  {
+  background: none;
+  border: none;
+}
+.main-nav .navbar-nav > li  {
+  padding-left: 20px;
+}
+.main-nav .navbar-collapse  {
+  padding-right: 0;
+}
+.main-nav .navbar-nav > li:last-child a {
+  padding-right: 0;
+}
+.main-nav .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus  {
   background: none;
   color: #42618E;
   text-decoration: underline;
@@ -233,8 +246,8 @@ select.form-control {
   padding-right: 10px;
 }
 .menu-divider {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   color: #999999;
 }
 .nav-wrapper {
@@ -604,8 +617,8 @@ textarea.form-control {
   max-width: 300px;
 }
 .main-nav .nav .open > a, .nav .open > a:hover, .nav .open > a:focus, .dropdown-menu > li > a:hover, .dropdown-menu > li {
-  background: none;
-  color: #42618E
+  background: none !important;
+  color: #42618E;
 }
 
 #google_translate_element {

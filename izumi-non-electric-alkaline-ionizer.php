@@ -6,7 +6,7 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
 </head>
-<body>
+<body id="water-body">
     <!-- header -->
     <?php include 'layout/header.php';?>
     <!-- Your Content -->

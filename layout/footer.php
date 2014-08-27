@@ -1,5 +1,3 @@
-<?php
-echo '
 <footer>
 	<div class="footer container">
 		<ul>
@@ -22,5 +20,4 @@ echo '
 	</div>
 	<hr>
 	<div class="footer-img"><img src="assets/img/footer-img.png" alt=""></div>
-</footer>';
-?>
+</footer>

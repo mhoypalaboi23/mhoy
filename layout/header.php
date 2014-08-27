@@ -1,5 +1,3 @@
-<?php 
-echo "
 <header class='push'>
 	<div class='head-top'>
 		<div class='container'>
@@ -70,5 +68,3 @@ echo "
 			</div><!-- /.container-fluid -->
 		</nav>
 </header>
-";
-?>

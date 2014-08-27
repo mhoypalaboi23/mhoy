@@ -1,5 +1,3 @@
-<?php 
-echo "
 
 <!-- script link -->
 <script src='assets/js/bootstrap.js' type='text/javascript'></script>
@@ -12,7 +10,3 @@ echo "
 
 
 <script src='assets/js/jquery-cookie.js'></script>
-
-
-";
-?>

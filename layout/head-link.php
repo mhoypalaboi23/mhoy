@@ -1,5 +1,4 @@
-<?php 
-echo "
+
 
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
@@ -17,6 +16,3 @@ echo "
 
 <!-- Modernizr -->
 <script src='assets/js/modernizr.custom.17475.js'></script>
-
-";
-?>

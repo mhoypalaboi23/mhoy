@@ -238,6 +238,7 @@ select.form-control {
 }
 .main-nav .navbar-collapse  {
   padding-right: 0;
+  overflow-x: hidden;
 }
 .main-nav .navbar-nav > li:last-child a {
   padding-right: 0;
@@ -271,9 +272,7 @@ select.form-control {
 .nav-wrapper {
 
 }
-.main-nav .nav {
-  float: right;
-}
+
 
 .main-nav .nav > li > a:hover, .nav > li > a:focus {
   background: none;
@@ -675,6 +674,27 @@ margin: auto;
 }
 @media all and (max-width: 767px)   {
 #slider-thumbs .list-inline {
+  display: none;
+}
+.menu-divider {
+  display: none !important;
+}
+.main-nav .navbar-nav > li {
+  padding-left: 0;
+}
+}
+
+@media (min-width: 991px) and (max-width: 1920px) {
+  .main-nav .nav {
+    float: right;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px)  {
+  .logo img {
+    display: block;
+    margin: auto;
+  }
+  #slider-thumbs .list-inline {
   display: none;
 }
 }

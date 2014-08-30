@@ -196,6 +196,7 @@ select.form-control {
   color: #42618E;
   background: white;
   max-width: 255px;
+  font-size: 32px;
 }
 .about-title h1 {
   max-width: 140px;

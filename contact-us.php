@@ -21,7 +21,7 @@
 
 				<li class="active">Contact Us</li>
 			</ol>
-			<div class="contact container">
+			<div class="contact ">
 				<div class="contact-title">
 					<h1>Contact Us</h1>
 				</div>

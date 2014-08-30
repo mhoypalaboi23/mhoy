@@ -17,11 +17,11 @@
 					<a href="#">Home</a>
 				</li>
 
-				<li class="active">KITCHEN ESSENTIALS</li>
+				<li class="active">HEALTH ESSENTIALS</li>
 			</ol>
 			<div class="multi-products">
 				<div class="product-title">
-					<h1>KITCHEN ESSENTIALS</h1>
+					<h1>HEALTH ESSENTIALS</h1>
 				</div>
 				<div class="product-display">
 					<div class="col-sm-6 col-md-3">

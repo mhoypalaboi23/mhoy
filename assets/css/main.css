@@ -190,6 +190,7 @@ select.form-control {
 }
 .product-title, .contact-title, .about-title {
   background-image: url(../img/pattern.png) !important;
+  margin-bottom: 30px;
 }
 .product-title h1, .contact-title h1, .about-title h1 {
   font-family: 'raleway-bold';
@@ -199,7 +200,7 @@ select.form-control {
   font-size: 32px;
 }
 .about-title h1 {
-  max-width: 140px;
+  max-width: 165px;
 }
 .contact-title h1  {
   max-width: 175px;
@@ -638,7 +639,7 @@ textarea.form-control {
   margin-right: 30px;
 }
 .product-title h1 {
-  max-width: 300px;
+  max-width: 350px;
 }
 .main-nav .nav .open > a, .nav .open > a:hover, .nav .open > a:focus, .dropdown-menu > li > a:hover, .dropdown-menu > li {
   background: none !important;

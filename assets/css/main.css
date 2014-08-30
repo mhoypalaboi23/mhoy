@@ -26,7 +26,11 @@
   font-family: 'Comfortaa-regular';
   src: url(../fonts/Comfortaa-Regular.ttf);
 }
+@import url(http://fonts.googleapis.com/css?family=Varela+Round);
 
+body {
+  overflow-x: hidden;
+}
 /* carousel */
 .media-carousel 
 {
@@ -72,15 +76,20 @@
   bottom: 0px;
   margin-right: -19px;
 }
+/*Translate*/
+/*.skiptranslate {
+display: none;
+}*/
 /* Changes the colour of the indicators */
 .media-carousel .carousel-indicators li 
 {
   background: #c0c0c0;
 }
 .thumbnail {
-  background: #DDDDDD !important;
+  background: #F7F7F7 !important;
   border-bottom: 2px solid rgba(170, 170, 170, 1);
   padding-bottom: 15px;
+  position: relative;
 }
 .thumbnail h3 {
  font-family: 'Comfortaa-Light';
@@ -113,21 +122,23 @@
 }
 .thumb-img
 {
-  max-width: 230px;
-  max-height: 152px;
-  overflow: hidden;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-top: 15px;
+
+  height: 152px;
+  position: relative;
   background: white;
 }
 .thumb-img img {
   height: 152px;
   display: block;
   margin: auto;
+    overflow: hidden;
+  position: absolute;
+  left: 0;
+  right: 0;
 }
 #media .thumbnail {
   height: 375px;
+  padding: 15px !Important;
 }
 .multi-products .thumbnail img
 {
@@ -214,6 +225,13 @@ select.form-control {
 .main-nav .navbar-default  {
   background: none;
   border: none;
+ font-family: 'Varela Round', sans-serif;
+}
+.navbar {
+  margin: 0;
+}
+.container-fluid {
+  padding: 13px 15px;
 }
 .main-nav .navbar-nav > li  {
   padding-left: 20px;
@@ -251,7 +269,7 @@ select.form-control {
   color: #999999;
 }
 .nav-wrapper {
-  padding-top: 5px;
+
 }
 .main-nav .nav {
   float: right;
@@ -275,6 +293,7 @@ select.form-control {
   position: relative;
   top: -100px;
 }
+
 .list-inline {
   text-align: center;
 }
@@ -297,7 +316,8 @@ select.form-control {
   color: #DDDDDD;
   padding-top: 5px;
   padding-bottom: 5px;
-  font-size: 20pt;
+  font-size: 18pt;
+line-height: 35px;
   margin-bottom: 0;
   text-shadow: rgba(45, 68, 99, 1);
 }
@@ -398,9 +418,7 @@ select.form-control {
   background: none !important;
   border: none;
 }
-.ikw .col-md-2 {
-  width: 20%;
-}
+
 .ikw .caption h3, p {
   text-align: center;
   text-transform: uppercase;
@@ -435,28 +453,31 @@ select.form-control {
 .certi-logos img {
   display: block;
   margin: auto;
+  width: 100%;
+  max-width: 400px;
+padding-top: 15px;
 }
 .certificates  {
   background: none repeat scroll 0% 0% #F4F4F4;
-  padding-bottom: 30px;
+ 
 }
 .certificate-btn {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 30px !important;
+
 }
-.certificate-btn a:first-child {
-  margin-right: 30px;
+
+.certificate-btn {
+
 }
 .certificate-btn a {
   background: #42618E;
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 5px 10px;
+display: block;
   color: white;
   border-radius: 10px;
-  width: 500px;
   border-bottom: 4px solid #2D4463;
+  margin: 10px 15px;
 }
 .certificate-btn a i {
   padding-left: 5px;
@@ -466,6 +487,7 @@ select.form-control {
 }
 footer {
   border-top: 15px solid #42618E;
+  margin-top: 60px;
   background: rgba(149,159,173,1);
   background: -moz-radial-gradient(center, ellipse cover, #88A8D5 0%, #42618E 100%) repeat scroll 0% 0% transparent;
   background: -webkit-gradient(radial, center center, 0px, center center, 100%, , color-stop(0%, rgba(149,159,173,1)), color-stop(100%, rgba(66,97,142,1)));
@@ -478,6 +500,7 @@ footer {
 .footer ul {
   text-align: center;
   list-style: none;
+  padding-left: 0;
 }
 .footer ul li a {
   color: #284159;
@@ -641,3 +664,17 @@ textarea.form-control {
   color: gray;
 }
 /*end my style*/  
+@media all and (min-width: 768px)  {
+.ikw .col-md-2 {
+  width: 20%;
+}
+.certificate-btn {
+width: 47%;
+margin: auto;
+}
+}
+@media all and (max-width: 767px)   {
+#slider-thumbs .list-inline {
+  display: none;
+}
+}

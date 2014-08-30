@@ -12,7 +12,7 @@
 	<!-- Your Content -->
 	<div id="container">
 		<!-- main slider carousel -->
-		<div class="row">
+		<div class="">
 			<div id="slider">
 
 				<div id="carousel-bounding-box">
@@ -227,13 +227,22 @@
 			</div>
 		</div>
 	</div>
-	<div class="certificates row">
+	<div class="certificates ">
 		<div class="certi-logos">
 			<img src="assets/img/certificates.png" alt="">
 		</div>
 		<div class="certificate-btn">
-			<a href="contact-us.php"><img src="assets/img/char-1.png" alt=""><span key="invest" class="tr">INVEST IN YOUR HEALTH</span> <i class="fa fa-arrow-circle-right"></i></a>
-			<a href="contact-us.php"><img src="assets/img/char-2.png" alt=""><span key="invest" class="tr">INVEST IN YOUR HEALTH</span> <i class="fa fa-arrow-circle-right"></i></a>
+		<div class="">
+		<div class="row">
+			<div class="col-md-6">
+				<a href="contact-us.php"><img src="assets/img/char-1.png" alt=""><span key="invest" class="tr">INVEST IN YOUR HEALTH</span> <i class="fa fa-arrow-circle-right"></i></a>
+			</div><!-- 6cols -->
+			<div class="col-md-6">
+				<a href="contact-us.php"><img src="assets/img/char-2.png" alt=""><span key="invest" class="tr">INVEST IN YOUR HEALTH</span> <i class="fa fa-arrow-circle-right"></i></a>
+			</div><!-- 6cols -->
+		</div><!-- row -->
+			
+			
 		</div>
 	</div>
 

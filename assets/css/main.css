@@ -95,9 +95,8 @@ display: none;
  font-family: 'Comfortaa-Light';
  text-align: center;
  color: #42618E;
- margin-bottom: 0;
  font-size: 13pt;
- min-height: 60px;
+
 }
 .thumbnail p {
  font-family: 'Comfortaa-Light' !important;
@@ -123,22 +122,22 @@ display: none;
 .thumb-img
 {
 
-  height: 152px;
+ 
   position: relative;
   background: white;
 }
 .thumb-img img {
-  height: 152px;
+  width: 100%;
   display: block;
   margin: auto;
     overflow: hidden;
-  position: absolute;
+  
   left: 0;
   right: 0;
 }
 #media .thumbnail {
-  height: 375px;
   padding: 15px !Important;
+  min-height: 396px;
 }
 .multi-products .thumbnail img
 {
@@ -148,8 +147,9 @@ display: none;
   padding-top: 10px;
 }
 #media .thumbnail h3 {
-  min-height: 60px;
+  margin-top: 0;
 }
+
 /* End carousel */
 
 /*my style*/
@@ -687,6 +687,11 @@ margin: auto;
 }
 
 @media (min-width: 991px) and (max-width: 1920px) {
+  a.tr.btn.btn-primary {
+  position: absolute;
+width: 80%;
+bottom: 30px;
+}
   .main-nav .nav {
     float: right;
   }

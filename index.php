@@ -72,16 +72,16 @@
 		</div>
 		<div class="ikw ">
 			<div class="container">
-				<h1 key="izumi-mean" class="tr">What is IZUMI KANGEN WATER ® ?</h1>
+				<h1 key="izumi-mean" class="tr">What is IZUMI ALKALINE KANGEN WATER ® ?</h1>
 				<p><span>.......................................................................................................................</span></p>
-				<p key="izumi-defi" class="tr">Izumi Kangen Water is delicious water created from enagics innovative water technology. Not only do these devices filter your tap water, but they also produce ionized alkaline and acidic water through electrolysis. These waters can be used for various purposes, including drinking, cooking, beauty, and cleaning</p>
+				<p key="izumi-defi" class="tr">Izumi Alkaline Kangen Water is delicious water created from Izumi's innovative water technology. Not only do these devices filter your tap water, but they also produce ionized alkaline and acidic water through electrolysis. These waters can be used for various purposes, including drinking, cooking, beauty, and cleaning.</p>
 				<h2 key="device" class="tr">Devices form Izumi produce 5 different types of water These water types have many health benefits</h2>
 				<div class="row">
 					<div class="col-sm-4 col-md-2">
 						<div class="thumbnail">
 							<img src="assets/img/water-1.png" alt="">
 							<div class="caption">
-								<h3 key="s-kangen" class="tr">Strong kangen® water</h3>
+								<h3 key="s-kangen" class="tr">Strong Alkaline kangen® water</h3>
 								<p>PH 10.0</p>
 							</div>
 						</div>
@@ -90,7 +90,7 @@
 						<div class="thumbnail">
 							<img src="assets/img/water-2.png" alt="">
 							<div class="caption">
-								<h3 key="i-kangen" class="tr">IZUMI kangen water®</h3>
+								<h3 key="i-kangen" class="tr">IZUMI Alkaline kangen water®</h3>
 								<p>ph 8.5 - 9.5</p>
 							</div>
 						</div>
@@ -137,7 +137,7 @@
 								<div class="row">
 									<div class="col-sm-6 col-md-3">
 										<div class="thumbnail">
-											<div class="thumb-img"><img src="assets/img/products/products-8.jpg" alt=""></div>
+											<div class="thumb-img"><img src="assets/img/products/HOME ESSENTIALS/SHOWER-FILTER/Anti-Chlorine-Vita-C-Shower-Filter-0.jpg" alt=""></div>
 											<div class="caption">
 												<h3 key="anti-chlorine" class="tr">Anti-Chlorine Vita-C Shower Filter</h3>
 												<p key="anti-chlorine-detail" class="tr">Right after a rigorous physical activity, nothing can be more comforting than a hot shower. Besides, who doesn’t like hot showers especially in the cold mornings? The thing about hot showers though is that the hot water causes our pores to open up, making chlorine very easy to seep through our skin. Chlorine is the cheapest way for water distribution companies to disinfect water. The risk though is that large amounts of chlorine over time can be detrimental to health.</p>
@@ -147,9 +147,9 @@
 									</div>  
 									<div class="col-sm-6 col-md-3">
 										<div class="thumbnail">
-											<div class="thumb-img"><img src="assets/img/products/products-2.jpg" alt=""></div>
+											<div class="thumb-img"><img src="assets/img/products/KITCHEN-ESSENTIALS/OZONATOR/Izumi-Pro-organic-Food-Sterilizer-0.jpg" alt=""></div>
 											<div class="caption">
-												<h3 key="antioxidant" class="tr">Antioxidant Alkaline Water Ionizer (Digital)</h3>
+												<h3 key="antioxidant" class="tr">Izumi Pro-organic Food Sterilizer</h3>
 												<p key="antioxidant-detail" class="tr">Enjoy Healthy and Organic Food without the hassle of buying from all-organic farms or searching for expensive organic food in the supermarket.</p>
 												<a href="izumi-pro-organic-food-sterilizer.php" key="more" class="tr btn btn-primary">More Info</a>
 											</div>
@@ -157,7 +157,7 @@
 									</div>    
 									<div class="col-sm-6 col-md-3">
 										<div class="thumbnail">
-											<div class="thumb-img"><img src="assets/img/products/products-13.jpg" alt=""></div>
+											<div class="thumb-img"><img src="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-0.jpg" alt=""></div>
 											<div class="caption">
 												<h3 key="nutritional" class="tr">Nutritional Cooking System</h3>
 												<p key="nutritional-detail" class="tr">The Izumi Nutritional Cooking System is proud to bring you the world’s finest cookware that meets your demands for healthy cooking that’s easy and energy-efficient.</p>
@@ -167,10 +167,11 @@
 									</div>  
 									<div class="col-sm-6 col-md-3">
 										<div class="thumbnail">
-											<div class="thumb-img"><img src="assets/img/products/products-4.jpg" alt=""></div>
+											<div class="thumb-img"><img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-0.jpg" alt=""></div>
 											<div class="caption">
-												<h3 key="pro-aqua" class="tr">PRO-AQUA AIR AND ROOM CLEANING SYSTEM</h3>
-												<p key="pro-aqua-detail" class="tr">Clean air is healthy air! The innovative and aesthetically designed cleaning system uses only water as a filter, requiring only three liters of water can already clean the entire house. If you have allergies or asthma, The Pro-Aqua cleaning system is safe and can even help to alleviate some symptoms by improving air quality and room climate. It cleans the air and does dry and wet cleaning, air washing and scenting, inhalation, bed and mattress cleaning, carpet and upholstery cleaning, and vacuuming. </p>
+												<h3 key="pro-aqua" class="tr">Air Purification System with Smart Sensor Technology
+</h3>
+												<p key="pro-aqua-detail" class="tr">Air quality easily ranks as among the most influential factors on our health, as evidenced in countries that suffer from high levels of air pollution and over the course of our lives this can have a very harmful effect, and lead to an increased risk of serious diseases.</p>
 												<a href="pro-aqua-air-and-room-cleaning-system.php" key="more" class="tr btn btn-primary">More Info</a>
 											</div>
 										</div>

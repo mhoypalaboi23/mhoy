@@ -129,7 +129,7 @@
 			<div class="products">
 				<div class="arrow_box"><h1 key="featured" class="tr">Featured Products</h1></div>
 			</div>
-			<div class='row'>
+			<div class='row multi-products'>
 				<div class='col-md-12'>
 					<div class="carousel slide media-carousel" id="media">
 						<div class="carousel-inner">

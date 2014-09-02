@@ -27,6 +27,8 @@ $(document).ready(function() {
   });
 });
 
+$ ('.multi-products img').wrap('<div class="flip-3d"><figure></figur');
+
 
 // single product js
 

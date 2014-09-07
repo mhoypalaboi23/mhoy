@@ -3,6 +3,7 @@
 <head>
 	<?php include 'layout/head-link.php';?>
 	<!-- jQuery -->
+
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
 

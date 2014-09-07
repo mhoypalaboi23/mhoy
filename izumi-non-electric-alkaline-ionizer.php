@@ -28,16 +28,14 @@
                     <div class="col-sm-12 col-md-4">
                         <div class="gallery">
                             <div class="image-preview">
-                                <img id="preview" src="assets/img/products/products-42.jpg" />
+                                <img id="preview" src="assets/img/products/WATER WATER-ESSENTIALS/Non-Electric-AlkalineWater-Ionizer/Non-Electric-AlkalineWater-Ionizer-0.jpg" />
                             </div>
                             <!-- Elastislide Carousel -->
                             <ul id="carousel" class="elastislide-list">
-                                <li data-preview="assets/img/products/products-42.jpg"><a href="#"><img src="assets/img/products/products-42.jpg" alt="image04" /></a></li>
-                                <li data-preview="assets/img/products/products-43.jpg"><a href="#"><img src="assets/img/products/products-43.jpg" alt="image04" /></a></li>
-                                <li data-preview="assets/img/products/products-49.jpg"><a href="#"><img src="assets/img/products/products-49.jpg" alt="image04" /></a></li>
-                                <li data-preview="assets/img/products/products-50.jpg"><a href="#"><img src="assets/img/products/products-50.jpg" alt="image04" /></a></li>
-                                <li data-preview="assets/img/products/products-51.jpg"><a href="#"><img src="assets/img/products/products-51.jpg" alt="image04" /></a></li>.jpg" alt="image04" /></a></li>
-                                
+                                <li data-preview="assets/img/products/WATER WATER-ESSENTIALS/Non-Electric-AlkalineWater-Ionizer/Non-Electric-AlkalineWater-Ionizer-0.jpg"><a href="#"><img src="assets/img/products/WATER WATER-ESSENTIALS/Non-Electric-AlkalineWater-Ionizer/Non-Electric-AlkalineWater-Ionizer-0.jpg" alt="image04" /></a></li>
+                                 <li data-preview="assets/img/products/WATER WATER-ESSENTIALS/Non-Electric-AlkalineWater-Ionizer/Non-Electric-AlkalineWater-Ionizer-1.jpg"><a href="#"><img src="assets/img/products/WATER WATER-ESSENTIALS/Non-Electric-AlkalineWater-Ionizer/Non-Electric-AlkalineWater-Ionizer-1.jpg" alt="image04" /></a></li>
+                                  <li data-preview="assets/img/products/WATER WATER-ESSENTIALS/Non-Electric-AlkalineWater-Ionizer/Non-Electric-AlkalineWater-Ionizer-2.jpg"><a href="#"><img src="assets/img/products/WATER WATER-ESSENTIALS/Non-Electric-AlkalineWater-Ionizer/Non-Electric-AlkalineWater-Ionizer-2.jpg" alt="image04" /></a></li>
+                                   <li data-preview="assets/img/products/WATER WATER-ESSENTIALS/Non-Electric-AlkalineWater-Ionizer/Non-Electric-AlkalineWater-Ionizer-3.jpg"><a href="#"><img src="assets/img/products/WATER WATER-ESSENTIALS/Non-Electric-AlkalineWater-Ionizer/Non-Electric-AlkalineWater-Ionizer-3.jpg" alt="image04" /></a></li>
                             </ul>
                             <!-- End Elastislide Carousel -->
 

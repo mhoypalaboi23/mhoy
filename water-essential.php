@@ -40,7 +40,7 @@
 						<div class="caption">
 							<h3 key="alkastream" class="tr">IZUMI Antioxidant Alkaline Water Ionizer (Analog)</h3>
 							<p key="alka-detail" class="tr">Live a healthier life by allowing your body to be more balanced. Izumi Antioxidant Alkaline Water Ionizer (Digital) model transforms drinking water into a way to detoxify. It eliminates the need for supplementary antioxidant and is a purer alternative to chemically derived detoxifiers.</p>
-							<a href="Antioxidant-Alkaline-Water-Ionizer-(Digital).php" key="more" class="tr btn btn-primary">More Info</a>
+							<a href="izumi-antioxidant-alkaline-water-ionizer-analog.php" key="more" class="tr btn btn-primary">More Info</a>
 						</div>
 					</div>
 					</div>
@@ -56,7 +56,7 @@
 					</div>
 					<div class="col-sm-6 col-md-3">
 						<div class="thumbnail">
-							<img src="assets/img/products/products-42.jpg" alt="">
+							<img src="assets/img/products/WATER WATER-ESSENTIALS/Non-Electric-AlkalineWater-Ionizer/Non-Electric-AlkalineWater-Ionizer-0.jpg" alt="">
 							<div class="caption">
 								<h3>IZUMI NON-ELECTRIC ALKALINE IONIZER</h3>
 								<p>This free-standing dispenser has two water options – hot and cold – ideal to wake up your senses with coffee or quench your thirst with a cool glass of water. It can heat or cool up to 30 gallons per hour and can bring convenience to your home or office.</p>

@@ -1,7 +1,8 @@
 
 
 <meta charset='utf-8'>
-<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name='google-translate-customization' content='6324e9234040abfe-fdbdb42a9dd9177e-g3099c2f4ef3ebb9e-12'></meta>
 
 <title>Izumi</title>

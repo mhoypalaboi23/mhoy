@@ -61,7 +61,7 @@
 </ul>
 <p><strong>Electric Potential in the Human Body</strong></p>
 <p>When we are young, our negative potential energy is approximately 70-90 millivolts. When we become sick or tired, our negative potential energy becomes lower than 60 millivolts. As we age, our negative potential energy decreases and this reduction may and often does cause illnesses. When our negative potential energy hits zero, we are no longer living. For this reason, it is necessary to increase our electrical potential to increase our health.</p>
-<p><strong>IZUMI® HIGH POTENTIAL THERAPEUTIC EQUIPMENT</strong></p>
+<h2><strong>IZUMI® HIGH POTENTIAL THERAPEUTIC EQUIPMENT</strong></h2>
 <p><strong>&nbsp;</strong></p>
 <ul>
 <li>Latest multi-functional device invented from research and development in Japan</li>
@@ -70,10 +70,8 @@
 <li>Negative ions also adjust and recover weak cells</li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>BENEFITS PER FUNCTION</strong></p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
-<p><strong>HIGH POTENTIAL THERAPY </strong></p>
-<p><strong>&nbsp;</strong></p>
+<h2><stron>BENEFITS PER FUNCTION</strong></h2>
+<h2><strong></strong>HIGH POTENTIAL THERAPY </strong></h2>
 <ul>
 <li>No harmful side-effects and pain</li>
 <li>Feel relaxed and comfortable in just 30 minutes to get rid of accummulated health problems</li>
@@ -97,7 +95,7 @@
 </ul>
 <p>A person’s body has free radicals that can destroy the cells and disrupt the normal functions of the organs, thus damaging the cells and causing ailments. It increases the rate of ageing. Under the high potential therapy function, the person’s cells are revived and the body fluids in weak alkaline level is maintained. It is also effective in cleansing of free radicals, strengthening immunity, delaying ageing, improving physical beauty.</p>
 <p>&nbsp;</p>
-<p>High Potential Therapy is Suitable for:</p>
+<h1>High Potential Therapy is Suitable for:</h1>
 <ul>
 <li>Whole family who want to live healthy and better, prevent disease</li>
 <li>Children and school-age students who need to have high concentration in study and reduce fatigue</li>
@@ -147,7 +145,7 @@
 </li>
 </ul>
 <p><strong>&nbsp;</strong></p>
-<p><strong>NEGATIVE POTENTIAL THERAPY</strong></p>
+<h2><strong>NEGATIVE POTENTIAL THERAPY</strong></h2>
 <p>&nbsp;</p>
 <p>The Negative Potential Therapy will put the human body in the negative high potential electrostatic field and it will generate negative ions to work on the human body to balance the pH level: making the blood more alkaline and causing a rise in proportion of calcium, consequently it will decrease the viscosity of the blood and purify the blood; activate the cell by activating the ATP enzyme in the membrane of the cell; tone the autonomic nerve; supply the static energy needed by the human body.</p>
 <p>Generating negative ions to work on the human body:</p>
@@ -197,7 +195,7 @@
 <p>Use -5000 volts for first week, for 30 minutes daily then increase to -9000 volts daily.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>LIGHT WAVE/OPTICAL/HIGH CYCLE THERAPY</strong></p>
+<h2><strong>LIGHT WAVE/OPTICAL/HIGH CYCLE THERAPY</strong></h2>
 <p><strong>&nbsp;</strong></p>
 <p>Light Wave/Optical/High Cycle Therapy keeps the body in balance and be more vigorous. With the alteration affect (massage) of positive and negative ions at the rate of over 72,000 Hz per second, the vitality of cells will be enhanced so that the body is activated, blood flows freely, disease is relieved, and symptoms such as pain in the loins and back, fatigue, etc. are relieved. Aside from that, burning fat is accelerated. Light Wave/Optical/High Cycle Therapy also regulates the overall physiological function, purifies blood, discharges wastes and remove poison, as well as enhances immunity. Using Light Wave/Optical/High Cycle Therapy function for 30 minutes is equivalent to an outdoor aerobic exercise for three hours:</p>
 <ul>

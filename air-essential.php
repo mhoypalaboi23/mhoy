@@ -26,24 +26,16 @@
 				<div class="product-display">
 					<div class="col-sm-6 col-md-3">
 						<div class="thumbnail">
-							<img src="assets/img/products/products-16.jpg" alt="">
-							<div class="caption">
-								<h3 key="vakufit" class="tr">Vakufit Hydrocleaning Machine</h3>
-								<p key="vaku-detail" class="tr">The affordable hydro cleaning machine is a german technology and manufactured cleaning system that utilizes water filtration technology to clean air and sanitize your home. Vakufit is advanced with water filtration technology that can aid you in extraordinary deep cleaning. It will turn your house into a home. Never settle for less.</p>
-								<a href="vakufit-hydrocleaning-machine.php" key="more" class="tr btn btn-primary">More Info</a>
-							</div>
-						</div>
+											<div class="thumb-img"><img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-0.jpg" alt=""></div>
+											<div class="caption">
+												<h3 key="pro-aqua" class="tr">Air Purification System with Smart Sensor Technology
+</h3>
+												<p key="pro-aqua-detail" class="tr">Air quality easily ranks as among the most influential factors on our health, as evidenced in countries that suffer from high levels of air pollution and over the course of our lives this can have a very harmful effect, and lead to an increased risk of serious diseases.</p>
+												<a href="Air-Purification-System-with-Smart-Sensor-Technology.php" key="more" class="tr btn btn-primary">More Info</a>
+											</div>
+										</div>
 					</div>
-					<div class="col-sm-6 col-md-3">
-						<div class="thumbnail">
-							<img src="assets/img/products/products-4.jpg" alt="">
-							<div class="caption">
-								<h3 key="pro-aqua" class="tr">Pro-Aqua Air and Room Cleaning System</h3>
-								<p key="pro-aqua-detail" class="tr">Clean air is healthy air! The innovative and aesthetically designed cleaning system uses only water as a</p>
-								<a href="Air-Purification-System-with-Smart-Sensor-Technology.php" key="more" class="tr btn btn-primary">More Info</a>
-							</div>
-						</div>
-					</div>
+					
 					
 				</div>
 			</div>

@@ -26,23 +26,23 @@
 				<div class="product-display">
 					<div class="col-sm-6 col-md-3">
 						<div class="thumbnail">
-							<img src="assets/img/products/products-2.jpg" alt="">
-							<div class="caption">
-								<h3>IZUMI PRO-ORGANIC FOOD STERILIZER</h3>
-								<p>Nowadays, people live in an environment with all kinds of pollution. The residual pesticide in vegetables and fruits is always with us in the daily life that harms our health. Therefore, it is an urgent task for us to clean and eat organic food!</p>
-								<a href="izumi-pro-organic-food-sterilizer.php" class="btn btn-primary">More Info</a>
-							</div>
-						</div>
+											<div class="thumb-img"><img src="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-0.jpg" alt=""></div>
+											<div class="caption">
+												<h3 key="nutritional" class="tr">Nutritional Cooking System</h3>
+												<p key="nutritional-detail" class="tr">The Izumi Nutritional Cooking System is proud to bring you the world’s finest cookware that meets your demands for healthy cooking that’s easy and energy-efficient.</p>
+												<a href="izumi-nutritional-cooking-sysytem.php" key="more" class="tr btn btn-primary">More Info</a>
+											</div>
+										</div>
 					</div>
 					<div class="col-sm-6 col-md-3">
 						<div class="thumbnail">
-							<img src="assets/img/products/products-23.jpg" alt="">
-							<div class="caption">
-								<h3>IZUMI NUTRITIONAL COOKING SYSTEM</h3>
-								<p>The Izumi Home Essentials is proud to bring you the world’s finest cookware – the Nutritional Cooking System that meets your demands for healthy cooking that is easy and energy-efficient. It uses the Vapor-Seal Technology that does not require water and oil to cook food. Also, the flavor, vitamins and minerals in food are all retained.</p>
-								<a href="izumi-nutritional-cooking-sysytem.php" class="btn btn-primary">More Info</a>
-							</div>
-						</div>
+											<div class="thumb-img"><img src="assets/img/products/KITCHEN-ESSENTIALS/OZONATOR/Izumi-Pro-organic-Food-Sterilizer-0.jpg" alt=""></div>
+											<div class="caption">
+												<h3 key="antioxidant" class="tr">Izumi Pro-organic Food Sterilizer</h3>
+												<p key="antioxidant-detail" class="tr">Enjoy Healthy and Organic Food without the hassle of buying from all-organic farms or searching for expensive organic food in the supermarket.</p>
+												<a href="izumi-pro-organic-food-sterilizer.php" key="more" class="tr btn btn-primary">More Info</a>
+											</div>
+										</div>
 					</div>
 					
 				</div>

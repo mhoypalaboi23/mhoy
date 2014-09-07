@@ -25,15 +25,15 @@
 				</div>
 				<div class="product-display">
 					<div class="col-sm-6 col-md-3">
-						<div class="thumbnail">
-							<img src="assets/img/products/products-8.jpg" alt="">
-							<div class="caption">
-								<h3>IZUMI ANTI-CHLORINE VITA-C SHOWER</h3>
-								<p>Now  you can enjoy your bath more with Izumi Anti-Chlorine Vita-C Shower Filter that gets rid of chlorine in the water. Chlorine in water dries up the skin and with accumulated high amounts can actually cause cancer.</p>
-								<a href="anti-chlorine vita-c-shower-filter.php" class="btn btn-primary">More Info</a>
-							</div>
-						</div>
-					</div>
+										<div class="thumbnail">
+											<div class="thumb-img"><img src="assets/img/products/HOME ESSENTIALS/SHOWER-FILTER/Anti-Chlorine-Vita-C-Shower-Filter-0.jpg" alt=""></div>
+											<div class="caption">
+												<h3 key="anti-chlorine" class="tr">Anti-Chlorine Vita-C Shower Filter</h3>
+												<p key="anti-chlorine-detail" class="tr">Right after a rigorous physical activity, nothing can be more comforting than a hot shower. Besides, who doesn’t like hot showers especially in the cold mornings? The thing about hot showers though is that the hot water causes our pores to open up, making chlorine very easy to seep through our skin. Chlorine is the cheapest way for water distribution companies to disinfect water. The risk though is that large amounts of chlorine over time can be detrimental to health.</p>
+												<a href="anti-chlorine vita-c-shower-filter.php" key="more" class="tr btn btn-primary">More Info</a>
+											</div>
+										</div>
+									</div>
 					
 				</div>
 			</div>

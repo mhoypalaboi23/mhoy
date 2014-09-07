@@ -14,10 +14,10 @@
 		<div class="product container">
 			<ol class="breadcrumb">
 				<li>
-					<a href="#">Home</a>
+					<a href="index.php">Home</a>
 				</li>
 
-				<li><a href="#">Air Essentials</a></li>
+				<li><a href="air-essential.php">Air Essentials</a></li>
 				<li class="active">Air Purification System with Smart Sensor Technology
 </li>
 			</ol>

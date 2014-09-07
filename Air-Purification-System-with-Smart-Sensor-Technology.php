@@ -33,14 +33,46 @@
 							</div>
 							<!-- Elastislide Carousel -->
 							<ul id="carousel" class="elastislide-list">
-								<li data-preview="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-0.jpg"><a href="#"><img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-0.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-1.jpg"><a href="#"><img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-1.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-2.jpg"><a href="#"><img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-2.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-3.jpg"><a href="#"><img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-3.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-4.jpg"><a href="#"><img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-4.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-5.jpg"><a href="#"><img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-5.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-6.jpg"><a href="#"><img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-6.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-7.jpg"><a href="#"><img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-7.jpg" alt="image04" /></a></li>
+								<li>
+									<a href="#" data-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-0.jpg" data-zoom-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-0.jpg"> 
+										<img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-0.jpg" alt="image04" />
+									</a>
+								</li>
+								<li>
+									<a href="#" data-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-1.jpg" data-zoom-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-1.jpg">
+										<img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-1.jpg" alt="image04" />
+									</a>
+								</li>
+								<li>
+									<a href="#" data-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-2.jpg" data-zoom-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-2.jpg">
+										<img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-2.jpg" alt="image04" />
+									</a>
+								</li>
+								<li>
+									<a href="#" data-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-3.jpg" data-zoom-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-3.jpg">
+										<img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-3.jpg" alt="image04" />
+									</a>
+								</li>
+								<li>
+									<a href="#" data-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-4.jpg" data-zoom-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-4.jpg">
+										<img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-4.jpg" alt="image04" />
+									</a>
+								</li>
+								<li>
+									<a href="#" data-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-5.jpg" data-zoom-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-5.jpg">
+										<img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-5.jpg" alt="image04" />
+									</a>
+								</li>
+								<li>
+									<a href="#" data-imate="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-6.jpg" data-zoom-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-6.jpg">
+										<img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-6.jpg" alt="image04" />
+									</a>
+								</li>
+								<li>
+									<a href="#" data-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-7.jpg" data-zoom-image="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-7.jpg"> 
+										<img src="assets/img/products/AIR-ESSENTIALS/AIR-PURIFICATION/Air-Purification-7.jpg" alt="image04" />
+									</a>
+								</li>
 							</ul>
 							<!-- End Elastislide Carousel -->
 
@@ -180,6 +212,24 @@
 				carousel.setCurrent( pos );
 
 			}
+			//initiate the plugin and pass the id of the div containing gallery images 
+
+			$(".image-preview img").elevateZoom({
+			// constrainType:"height", 
+			// constrainSize:274, 
+			zoomType: "lens", 
+			scrollZoom : true,
+			containLensZoom: true, 
+			gallery:'carousel', 
+			// cursor: 'pointer', 
+			galleryActiveClass: "current-img"}); 
+
+			//pass the images to Fancybox 
+			$(".preview").bind("click", function(e) { 
+			var ez = $('.preview').data('elevateZoom');
+			$.fancybox(ez.getGalleryList()); 
+			return false; 
+			});
 
 		</script>
 

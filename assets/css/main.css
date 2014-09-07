@@ -29,7 +29,7 @@
 @import url(http://fonts.googleapis.com/css?family=Varela+Round);
 
 body {
-
+overflow-x: hidden;
 }
 /* carousel */
 .media-carousel 
@@ -524,6 +524,11 @@ footer hr {
   margin-bottom: 0; 
   border-color: rgba(112, 128, 174, 1)
 }
+.single-product-detail img {
+
+    width: 100%;
+  
+}
 .single-product-detail h1 {
   font-family: 'Comfortaa-regular';
   margin: 0;
@@ -571,9 +576,7 @@ footer hr {
 .elastislide-carousel ul li a img  {
   border: 2px solid lightgrey !important;
 }
-.contact-info.container {
-  width: 800px ;
-}
+
 .contact-info.container h1 {
   text-align: center;
   font-family: 'raleway-regular';
@@ -598,7 +601,7 @@ footer hr {
   background: rgba(194, 194, 194, 1) ;
 }
 textarea.form-control {
-  max-width: 355px;
+ 
   background: rgba(227, 227, 227, 1) !important;
 }
 .btn-primary {
@@ -607,6 +610,7 @@ textarea.form-control {
 .contact-info .btn-primary {
   font-size: 12pt;
   margin-top: 20px;
+  line-height: 34px;
 }
   .btn:active {
   bottom: -4px !important;
@@ -796,8 +800,12 @@ background-color: rgb(241, 241, 241);
  /*end roate css*/
 /*end my style*/  
 @media all and (min-width: 768px)  {
+
 .ikw .col-md-2 {
   width: 20%;
+}
+.contact-info.container {
+  width: 800px ;
 }
 .certificate-btn {
 width: 47%;
@@ -805,6 +813,9 @@ margin: auto;
 }
 }
 @media all and (max-width: 767px)   {
+  .contact-info .btn-primary {
+    width: 100%;
+  }
 #slider-thumbs .list-inline {
   display: none;
 }
@@ -817,6 +828,9 @@ margin: auto;
 }
 
 @media (min-width: 991px) and (max-width: 1920px) {
+   textarea.form-control  {
+    max-width: 355px;
+  }
    .btn:active {
   bottom: -5px !important;
  }

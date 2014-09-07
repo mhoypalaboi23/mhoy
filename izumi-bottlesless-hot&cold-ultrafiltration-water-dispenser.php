@@ -28,15 +28,13 @@
 					<div class="col-sm-12 col-md-4">
 						<div class="gallery">
 							<div class="image-preview">
-								<img id="preview" src="assets/img/products/products-15.jpg" />
+								<img id="preview" src="assets/img/products/WATER WATER-ESSENTIALS/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser-1.jpg" />
 							</div>
 							<!-- Elastislide Carousel -->
 							<ul id="carousel" class="elastislide-list">
-								<li data-preview="assets/img/products/products-15.jpg"><a href="#"><img src="assets/img/products/products-15.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/products-19.jpg"><a href="#"><img src="assets/img/products/products-19.jpg" alt="image05" /></a></li>
-								<li data-preview="assets/img/products/products-20.jpg"><a href="#"><img src="assets/img/products/products-20.jpg" alt="image05" /></a></li>
-								<li data-preview="assets/img/products/products-21.jpg"><a href="#"><img src="assets/img/products/products-21.jpg" alt="image05" /></a></li>
-								<li data-preview="assets/img/products/products-22.jpg"><a href="#"><img src="assets/img/products/products-22.jpg" alt="image05" /></a></li>
+								<li data-preview="assets/img/products/WATER WATER-ESSENTIALS/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser-1.jpg"><a href="#"><img src="assets/img/products/WATER WATER-ESSENTIALS/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser-1.jpg" alt="image04" /></a></li>
+								<li data-preview="assets/img/products/WATER WATER-ESSENTIALS/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser-2.jpg"><a href="#"><img src="assets/img/products/WATER WATER-ESSENTIALS/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser-2.jpg" alt="image04" /></a></li>
+								<li data-preview="assets/img/products/WATER WATER-ESSENTIALS/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser-3.jpg"><a href="#"><img src="assets/img/products/WATER WATER-ESSENTIALS/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser-3.jpg" alt="image04" /></a></li>
 							</ul>
 							<!-- End Elastislide Carousel -->
 

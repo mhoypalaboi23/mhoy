@@ -40,7 +40,7 @@
 							<div class="caption">
 								<h3 key="pro-aqua" class="tr">Pro-Aqua Air and Room Cleaning System</h3>
 								<p key="pro-aqua-detail" class="tr">Clean air is healthy air! The innovative and aesthetically designed cleaning system uses only water as a</p>
-								<a href="pro-aqua-air-and-room-cleaning-system.php" key="more" class="tr btn btn-primary">More Info</a>
+								<a href="Air-Purification-System-with-Smart-Sensor-Technology.php" key="more" class="tr btn btn-primary">More Info</a>
 							</div>
 						</div>
 					</div>

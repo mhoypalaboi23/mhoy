@@ -28,16 +28,16 @@
 					<div class="col-sm-12 col-md-4">
 						<div class="gallery">
 							<div class="image-preview">
-								<img id="preview" src="assets/img/products/products-13.jpg" />
+								<img id="preview" src="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-0.jpg" />
 							</div>
 							<!-- Elastislide Carousel -->
 							<ul id="carousel" class="elastislide-list">
-								<li data-preview="assets/img/products/products-13.jpg"><a href="#"><img src="assets/img/products/products-13.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/products-23.jpg"><a href="#"><img src="assets/img/products/products-23.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/products-24.jpg"><a href="#"><img src="assets/img/products/products-24.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/products-25.jpg"><a href="#"><img src="assets/img/products/products-25.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/products-26.jpg"><a href="#"><img src="assets/img/products/products-26.jpg" alt="image04" /></a></li>
-								<li data-preview="assets/img/products/products-27.jpg"><a href="#"><img src="assets/img/products/products-27.jpg" alt="image04" /></a></li>
+								<li data-preview="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-0.jpg"><a href="#"><img src="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-0.jpg" alt="image04" /></a></li>
+								<li data-preview="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-1.jpg"><a href="#"><img src="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-1.jpg" alt="image04" /></a></li>
+								<li data-preview="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-2.jpg"><a href="#"><img src="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-2.jpg" alt="image04" /></a></li>
+								<li data-preview="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-3.jpg"><a href="#"><img src="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-3.jpg" alt="image04" /></a></li>
+								<li data-preview="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-4.jpg"><a href="#"><img src="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-4.jpg" alt="image04" /></a></li>
+								<li data-preview="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-5.jpg"><a href="#"><img src="assets/img/products/KITCHEN-ESSENTIALS/COOKWARE/Nutritional-Cooking-System-5.jpg" alt="image04" /></a></li>
 							</ul>
 							<!-- End Elastislide Carousel -->
 

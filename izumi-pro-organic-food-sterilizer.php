@@ -28,11 +28,14 @@
 					<div class="col-sm-12 col-md-4">
 						<div class="gallery">
 							<div class="image-preview">
-								<img id="preview" src="assets/img/products/products-2.jpg" />
+								<img id="preview" src="assets/img/products/KITCHEN-ESSENTIALS/OZONATOR/Izumi-Pro-organic-Food-Sterilizer-0.jpg" />
 							</div>
 							<!-- Elastislide Carousel -->
 							<ul id="carousel" class="elastislide-list">
-								<li data-preview="assets/img/products/products-2.jpg"><a href="#"><img src="assets/img/products/products-2.jpg" alt="image04" /></a></li>
+								<li data-preview="assets/img/products/KITCHEN-ESSENTIALS/OZONATOR/Izumi-Pro-organic-Food-Sterilizer-0.jpg"><a href="#"><img src="assets/img/products/KITCHEN-ESSENTIALS/OZONATOR/Izumi-Pro-organic-Food-Sterilizer-0.jpg" alt="image04" /></a></li>
+								<li data-preview="assets/img/products/KITCHEN-ESSENTIALS/OZONATOR/Izumi-Pro-organic-Food-Sterilizer-1.jpg"><a href="#"><img src="assets/img/products/KITCHEN-ESSENTIALS/OZONATOR/Izumi-Pro-organic-Food-Sterilizer-1.jpg" alt="image04" /></a></li>
+								<li data-preview="assets/img/products/KITCHEN-ESSENTIALS/OZONATOR/Izumi-Pro-organic-Food-Sterilizer-2.jpg"><a href="#"><img src="assets/img/products/KITCHEN-ESSENTIALS/OZONATOR/Izumi-Pro-organic-Food-Sterilizer-2.jpg" alt="image04" /></a></li>
+								<li data-preview="assets/img/products/KITCHEN-ESSENTIALS/OZONATOR/Izumi-Pro-organic-Food-Sterilizer-3.jpg"><a href="#"><img src="assets/img/products/KITCHEN-ESSENTIALS/OZONATOR/Izumi-Pro-organic-Food-Sterilizer-3.jpg" alt="image04" /></a></li>
 							</ul>
 							<!-- End Elastislide Carousel -->
 

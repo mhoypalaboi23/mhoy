@@ -172,7 +172,7 @@
 												<h3 key="pro-aqua" class="tr">Air Purification System with Smart Sensor Technology
 </h3>
 												<p key="pro-aqua-detail" class="tr">Air quality easily ranks as among the most influential factors on our health, as evidenced in countries that suffer from high levels of air pollution and over the course of our lives this can have a very harmful effect, and lead to an increased risk of serious diseases.</p>
-												<a href="pro-aqua-air-and-room-cleaning-system.php" key="more" class="tr btn btn-primary">More Info</a>
+												<a href="Air-Purification-System-with-Smart-Sensor-Technology.php" key="more" class="tr btn btn-primary">More Info</a>
 											</div>
 										</div>
 									</div>     
@@ -181,7 +181,7 @@
 							<div class="item"><div class="row">
 								<div class="col-sm-6 col-md-3">
 									<div class="thumbnail">
-										<div class="thumb-img"><img src="assets/img/products/products-14.jpg" alt=""></div>
+										<div class="thumb-img"><img src="assets/img/products/HEALTH-ESSENTIALS/Energy-Bracelet/Energy-Bracelet-1.jpg" alt=""></div>
 										<div class="caption">
 											<h3 key="izumi-energy" class="tr">IZUMI ENERGY BRACELETS</h3>
 											<p key="izumi-energy-detail" class="tr">Your Izumi Energy Bracelet leads the field in high-technological jewelry, with five types of constant-release energies that benefit the wearer.</p>
@@ -191,7 +191,7 @@
 								</div>  
 								<div class="col-sm-6 col-md-3">
 									<div class="thumbnail">
-										<div class="thumb-img"><img src="assets/img/products/products-15.jpg" alt=""></div>
+										<div class="thumb-img"><img src="assets/img/products/WATER WATER-ESSENTIALS/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser/Bottleless-HoT-&-Cold-Ultrafiltration-Water-Dispenser-1.jpg" alt=""></div>
 										<div class="caption">
 											<h3 key="dispenser" class="tr">IZUMI Bottleless Hot &amp; Cold Ultrafiltration Water Dispenser</h3>
 											<p key="dispenser-detail">This free-standing dispenser has two water options – hot and cold – ideal to wake up your senses with coffee or quench your thirst with a cool glass of water. It can heat or cool up to 30 gallons per hour and can bring convenience to your home or office.</p>
@@ -201,21 +201,21 @@
 								</div>    
 								<div class="col-sm-6 col-md-3">
 									<div class="thumbnail">
-										<div class="thumb-img"><img src="assets/img/products/products-16.jpg" alt=""></div>
+										<div class="thumb-img"><img src="assets/img/products/HEALTH-ESSENTIALS/High-Potential-Therapeutic-Equipment/High-Potential-Therapeutic-Equipment-1.jpg" alt=""></div>
 										<div class="caption">
-											<h3 key="vakufit" class="tr">VAKUFIT HYDROCLEANING MACHINE</h3>
-											<p key="vaku-detail" class="tr">Vakufit Air and Room Cleaning System is such a great help for allergy sufferers, especially small children. Many allergens, including excrement of dust mites, pollen, fungus spores, and numerous micro-organisms are  hidden in dust. With Vakufit, now you can vacuum with peace of mind. These particulates stay in water are disposed off forever!</p>
-											<a href="vakufit-hydrocleaning-machine.php" key="more" class="tr btn btn-primary">More Info</a>
+											<h3 key="izumi" class="tr">IZUMI High Potential Therapeutic Equipment</h3>
+											<p key="vaku-detail" class="tr">Negative Potential Energy increases the permeability of cell membranes and enhances the composition of ATP, which is responsible for transporting chemical energy within cells for metabolism.</p>
+											<a href="IZUMI-High-Potential-Therapeutic-Equipment.php" key="more" class="tr btn btn-primary">More Info</a>
 										</div>
 									</div>
 								</div>  
 								<div class="col-sm-6 col-md-3">
 									<div class="thumbnail">
-										<div class="thumb-img"><img src="assets/img/products/products-17.jpg" alt=""></div>
+										<div class="thumb-img"><img src="assets/img/products/WATER WATER-ESSENTIALS/Antioxidant-Alkaline-Water-Ionizer-(Digital)/Antioxidant-Alkaline-Water-Ionizer-(Digital)-1.jpg" alt=""></div>
 										<div class="caption">
-											<h3 key="alkastream" class="tr">alkaStream AOK NON-ELECTRIC ALKALINE IONIZER</h3>
-											<p key="alka-detail" class="tr">The alkaStream AOK Non-Electric Alkaline Water Ionizer is comprised of 8 filter layers that deliver the cleanest possible water out of your tap. Unlike many water filters on the market, alkaStream AOK keeps all of the healthy minerals in, so your body receives all the proper nourishment that our body needs.</p>
-											<a href="alkastream-aok-none-electric-alkaline-ionizer.php" key="more" class="tr btn btn-primary">More Info</a>
+											<h3 key="alkastream" class="tr">IZUMI Antioxidant Alkaline Water Ionizer (Digital)</h3>
+											<p key="alka-detail" class="tr">Live a healthier life by allowing your body to be more balanced. Izumi Antioxidant Alkaline Water Ionizer (Digital) model transforms drinking water into a way to detoxify. It eliminates the need for supplementary antioxidant and is a purer alternative to chemically derived detoxifiers.</p>
+											<a href="Antioxidant-Alkaline-Water-Ionizer-(Digital).php" key="more" class="tr btn btn-primary">More Info</a>
 										</div>
 									</div>
 								</div>     

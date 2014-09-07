@@ -29,7 +29,7 @@
 @import url(http://fonts.googleapis.com/css?family=Varela+Round);
 
 body {
-  overflow: hidden;
+
 }
 /* carousel */
 .media-carousel 
@@ -91,6 +91,9 @@ display: none;
   padding-bottom: 15px;
   position: relative;
 }
+.multi-products .thumbnail {
+ min-height: 410px;
+}
 .thumbnail h3 {
  font-family: 'Comfortaa-Light';
  text-align: center;
@@ -135,16 +138,16 @@ display: none;
   left: 0;
   right: 0;
 }
-#media .thumbnail {
+ .thumbnail {
   padding: 15px !Important;
-  min-height: 396px;
+  /*min-height: 396px;*/
 }
 .multi-products .thumbnail img
 {
 
 padding: 0;
 }
-#media .thumbnail h3 {
+ .thumbnail h3 {
   margin-top: 0;
 }
 
@@ -471,7 +474,7 @@ padding-top: 15px;
 }
 .certificate-btn a {
   background: #42618E;
-  padding: 5px 10px;
+  padding: 15px 10px;
 display: block;
   color: white;
   border-radius: 10px;
@@ -737,12 +740,17 @@ textarea.form-control {
   border-left: 6px solid transparent;
  }
  /*ens of transitin effects*/
-
+.elastislide-carousel ul li a img {
+  max-height: 92px;
+}
+.image-preview img {
+  max-height: 332px;
+}
  /*rotate css*/
 
  div.flip-3d {
   perspective: 1200px; 
-
+background-color: rgb(241, 241, 241);
   margin: auto; 
   /*float: left;*/
  }
@@ -810,12 +818,13 @@ margin: auto;
 
 @media (min-width: 991px) and (max-width: 1920px) {
    .btn:active {
-  bottom: 26px !important;
+  bottom: -5px !important;
  }
-  a.tr.btn.btn-primary {
+.thumbnail .btn {
   position: absolute;
 width: 80%;
-bottom: 30px;
+bottom: 0;
+margin-bottom: 30px;
 }
   .main-nav .nav {
     float: right;
